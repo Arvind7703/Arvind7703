@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arvind7703
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning BCA (Bathelor of Computer Applicarion
+- 🌱 I’m currently learning BCA (Bathelor of Computer Applications)
 - 📫 How to reach me arvindvishwakrma37@gmail.com
 
 
