@@ -1,4 +1,4 @@
-👋 Hello, I'm Arvind Vishwakarma, a software developer enthusiast.
+👋 Hello, I'm Arvind Vishwakarma, a software development enthusiast.
 
 👀 I'm passionate about exploring web development.
 
